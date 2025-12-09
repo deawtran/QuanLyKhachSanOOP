@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/view/ManHinhDatPhongMenu.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/view/ManHinhTraCuuPhong.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/view/ManHinhThongBaoLoaiPhong.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/view/ManHinhXacNhanDatPhong.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/view/ManHinhThanhToanDatPhong.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/controller/QuanLyGiaoDien.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/view/ManHinhDatPhongThanhCong.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/view/ManHinhKhachHang.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/model/LoaiPhong.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/controller/DichVuPhong.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/controller/DichVuThongKe.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/model/KhachHang.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/view/ManHinhHuyPhongThanhCong.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/view/ManHinhDanhSachPhongDaDat.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/view/ManHinhDanhSachPhongDeHuy.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/model/DatPhong.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/model/Phong.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/model/QuanLyKhachSan.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/controller/DichVuNguoiDung.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/MainApplication/MainApplication.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/view/ManHinhXacNhanHuyPhong.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/view/ManHinhQuanLyKS.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/view/ManHinhThongKe.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/view/ManHinhQLLeTanMenu.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/view/ManHinhLeTanMenu.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/view/ManHinhLeTanQLKhach.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/view/ManHinhXemThongTinLeTan.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/view/ManHinhDangNhapChung.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/view/ManHinhCapNhatThongTinLeTan.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/controller/DichVuDatPhong.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/view/ManHinhXemChiTietPhongDaDat.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/model/DatabaseConnection.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/test/TestConnection.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/model/LeTan.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/model/NguoiDung.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/view/ManHinhChiTietQLLeTan.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/view/ManHinhChinh.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/view/ManHinhDangKyKhachHang.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/dao/TaiKhoanDAO.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/dao/KhachHangDAO.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/dao/PhongDAO.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/dao/DatPhongDAO.java</file>
+            <file>file:/C:/Users/Dinh%20An/Downloads/QuanLyKhachSanOOP/src/dao/NhanVienDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
